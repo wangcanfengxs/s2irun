@@ -33,7 +33,7 @@ You've just built and run a new container image from source code in a git reposi
      "tag": "USERNAME_REPLACE/s2irun-sample:tag",
      "builderPullPolicy": "if-not-present",
      "export": true,
-     "sourceUrl": "https://github.com/GIT_USERNAME_REPLACE/devops-java-sample.git",	                                  
+     "sourceUrl": "https://github.com/GIT_USERNAME_REPLACE/devops-java-sample.git"
    }
    ```
 
